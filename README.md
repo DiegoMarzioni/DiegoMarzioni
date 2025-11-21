@@ -35,8 +35,6 @@ Actualmente sigo perfeccionando mis habilidades en **React**, **Next.js**, **Nes
 ### **UX / UI**
 <p>
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Design%20Systems-FFD700?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prototipado-1E90FF?style=for-the-badge" />
 </p>
 
 ---
