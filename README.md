@@ -61,7 +61,7 @@ Sitio web moderno desarrollado con React/Next.js (puedo agregar una descripción
 ---
 
 ### 📌 *Próximamente más proyectos...*  
-Esta sección está lista para que vayas agregando nuevos repositorios a medida que los desarrolles.
+
 
 ---
 
