@@ -55,7 +55,7 @@ Actualmente sigo perfeccionando mis habilidades en **React**, **Next.js**, **Nes
 🔗 Demo: https://devcore-front.vercel.app/
 
 *Descripción:*  
-Sitio web moderno desarrollado con React/Next.js (puedo agregar una descripción breve si querés — estilo, objetivo, stack exacto).
+Sitio web moderno desarrollado con nestJS y Next.js 
 
 ---
 
