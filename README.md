@@ -59,7 +59,8 @@ Actualmente estoy profundizando en **arquitectura frontend**, **NestJS**, **clea
 <!-- Streaks -->
 
 
-<img height="170" src="https://streak-stats.demolab.com?user=DiegoMarzioni&theme=tokyonight&hide_border=true" />
+![GitHub streak](https://github-readme-streak-stats-eight.vercel.app?user=DiegoMarzioni&theme=tokyonight&hide_border=true)
+
 
 </div>
 
