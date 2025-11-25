@@ -1,4 +1,9 @@
 
+<h1 align="center">🚀 Desarrollador Full Stack | Frontend • UX/UI 🚀 </h1>
+
+
+<p align="center"><i>"Transformo ideas en experiencias digitales modernas y funcionales."</i></p>
+
 <p align="center">
   <img src="https://github.com/DiegoMarzioni.png" width="140" style="border-radius: 50%; border: 3px solid #00A8FF;" />
 </p>
@@ -15,7 +20,20 @@ Trabajo con un enfoque visual claro y una arquitectura limpia, combinando:
 ✔ Diseño UX/UI con Figma  
 ✔ Buenas prácticas + código mantenible  
 
+
+
 Actualmente estoy profundizando en **arquitectura frontend**, **NestJS**, **clean code**, y construcción de **productos digitales profesionales**.
+
+---
+
+# 🧠 Mi forma de trabajar
+
+- ✨ Prioridad en **experiencia de usuario**  
+- 🧩 Código modular y **componentes reutilizables**  
+- 🏗 Arquitectura clara con **patrones de diseño**  
+- 🧼 Enfoque en **Clean Code + SOLID**  
+- ⚡ Optimización constante de rendimiento  
+- 🤝 Comunicación clara y trabajo en equipo  
 
 ---
 
@@ -43,12 +61,13 @@ Actualmente estoy profundizando en **arquitectura frontend**, **NestJS**, **clea
 <div align="center">
 
 <!-- Streaks -->
+
+
 <img height="170" src="https://streak-stats.demolab.com?user=DiegoMarzioni&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
-
 # 📌 En qué estoy trabajando ahora
 
 ⭐ Arquitectura frontend avanzada con **Next.js**  
@@ -80,6 +99,11 @@ Plataforma moderna desarrollada con **Next.js**, diseño UI estilizado, componen
 Proyecto formativo enfocado en fundamentos de JavaScript, manipulación del DOM y buenas prácticas.
 
 ---
+
+<p align="center">
+  <b>¿Buscas un desarrollador con mentalidad moderna?</b><br/>
+  <i>Estoy abierto a colaborar en proyectos y nuevas oportunidades.</i>
+</p>
 
 ## 🔹 **Proyecto 4**
 📁 **Repositorio:** https://github.com/DiegoMarzioni/Proyecto-4  
