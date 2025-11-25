@@ -111,4 +111,9 @@ Proyecto formativo enfocado en fundamentos de JavaScript, manipulación del DOM 
 *Descripción:*  
 Desarrollo práctico orientado a asincronía, fetch API y estructura lógica de una aplicación básica.
 
+<p align="center">
+  <b>¿Buscas un desarrollador con mentalidad moderna?</b><br/>
+  <i>Estoy abierto a colaborar en proyectos y nuevas oportunidades.</i>
+</p>
+
 
