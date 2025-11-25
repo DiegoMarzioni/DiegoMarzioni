@@ -4,10 +4,6 @@
 
 <p align="center"><i>"Transformo ideas en experiencias digitales modernas y funcionales."</i></p>
 
-<p align="center">
-  <img src="https://github.com/DiegoMarzioni.png" width="140" style="border-radius: 50%; border: 3px solid #00A8FF;" />
-</p>
-
 ---
 
 # Sobre mí
