@@ -100,10 +100,6 @@ Proyecto formativo enfocado en fundamentos de JavaScript, manipulación del DOM 
 
 ---
 
-<p align="center">
-  <b>¿Buscas un desarrollador con mentalidad moderna?</b><br/>
-  <i>Estoy abierto a colaborar en proyectos y nuevas oportunidades.</i>
-</p>
 
 ## 🔹 **Proyecto 4**
 📁 **Repositorio:** https://github.com/DiegoMarzioni/Proyecto-4  
