@@ -79,8 +79,6 @@ Plataforma moderna desarrollada con **Next.js**, diseño UI estilizado, componen
 *Descripción:*  
 Proyecto formativo enfocado en fundamentos de JavaScript, manipulación del DOM y buenas prácticas.
 
-> 📸 *Espacio para futuras imágenes o demo en video*
-
 ---
 
 ## 🔹 **Proyecto 4**
