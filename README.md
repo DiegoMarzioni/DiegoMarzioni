@@ -82,7 +82,7 @@ Actualmente estoy profundizando en **arquitectura frontend**, **NestJS**, **clea
 ## 🔹 **Devcore**
 📁 **Frontend – Proyecto personal**  
 🔗 **Deploy:** https://devcore-front.vercel.app/  
-🔗 **Repositorio:** https://github.com/DiegoMarzioni/Devcore
+🔗 **Repositorio:** https://github.com/DiegoMarzioni/ProyectoFinal
 
 *Descripción:*  
 Plataforma moderna desarrollada con **Next.js**, diseño UI estilizado, componentes reutilizables y enfoque en experiencia de usuario.
