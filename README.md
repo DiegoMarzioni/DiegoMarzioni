@@ -1,112 +1,70 @@
-
-<h1 align="center">🚀 Desarrollador Full Stack | Frontend • UX/UI 🚀 </h1>
-
-
-<p align="center"><i>"Transformo ideas en experiencias digitales modernas y funcionales."</i></p>
-
----
-
-# Sobre mí
-
-Soy un **desarrollador full stack especializado en frontend**, apasionado por crear experiencias modernas, eficientes y centradas en el usuario.  
-Trabajo con un enfoque visual claro y una arquitectura limpia, combinando:
-
-✔ Desarrollo frontend con React / Next.js  
-✔ Backend escalable con NestJS  
-✔ Diseño UX/UI con Figma  
-✔ Buenas prácticas + código mantenible  
-
-
-
-Actualmente estoy profundizando en **arquitectura frontend**, **NestJS**, **clean code**, y construcción de **productos digitales profesionales**.
-
----
-
-# 🧠 Mi forma de trabajar
-
-- ✨ Prioridad en **experiencia de usuario**  
-- 🧩 Código modular y **componentes reutilizables**  
-- 🏗 Arquitectura clara con **patrones de diseño**  
-- 🧼 Enfoque en **Clean Code + SOLID**  
-- ⚡ Optimización constante de rendimiento  
-- 🤝 Comunicación clara y trabajo en equipo  
-
----
-
-# 🚀 Tecnologías y Herramientas
-
-## **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
-</p>
-
-## **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nestjs,postgres,mysql" />
-</p>
-
-## **UX/UI & Otros**
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode" />
-</p>
-
----
-
-# 🔥 Estadísticas & Actividad
-
-<div align="center">
-
-<!-- Streaks -->
-
-
-![GitHub streak](https://github-readme-streak-stats-eight.vercel.app?user=DiegoMarzioni&theme=tokyonight&hide_border=true)
-
-
-</div>
-
----
-# 📌 En qué estoy trabajando ahora
-
-⭐ Arquitectura frontend avanzada con **Next.js**  
-⭐ Profundización en **NestJS + microservicios**  
-⭐ Diseño de interfaces modernas con **UX/UI**  
-⭐ Construcción de proyectos para mi portfolio  
-⭐ Interiorizando en principos SOLID y patrones de diseño 
-
----
-
-# ⭐ Proyectos Destacados
-
----
-
-## 🔹 **Devcore**
-📁 **Frontend – Proyecto personal**  
-🔗 **Deploy:** https://devcore-front.vercel.app/  
-🔗 **Repositorio:** https://github.com/DiegoMarzioni/ProyectoFinal
-
-*Descripción:*  
-Plataforma moderna desarrollada con **Next.js**, diseño UI estilizado, componentes reutilizables y enfoque en experiencia de usuario.
-
----
-
-## 🔹 **Proyecto 3**
-📁 **Repositorio:** https://github.com/DiegoMarzioni/Proyecto-3  
-
-*Descripción:*  
-Proyecto formativo enfocado en fundamentos de JavaScript, manipulación del DOM y buenas prácticas.
-
----
-
-
-## 🔹 **Proyecto 4**
-📁 **Repositorio:** https://github.com/DiegoMarzioni/Proyecto-4  
-
-*Descripción:*  
-Desarrollo práctico orientado a asincronía, fetch API y estructura lógica de una aplicación básica.
+<h1 align="center">Hi, I'm Diego Marzioni 👋</h1>
 
 <p align="center">
-  <b>¿Buscas un desarrollador con mentalidad moderna?</b><br/>
-  <i>Estoy abierto a colaborar en proyectos y nuevas oportunidades.</i>
+  <b>Full Stack Developer</b> · TypeScript · React · Next.js · NestJS · React Native (Expo)
+  <br/>
+  📍 Pergamino, Buenos Aires, Argentina · 🌎 Open to remote opportunities
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/diego-marzioni/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:diegoa.marzioni@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
+---
+
+## About me
+
+I build web and mobile products end to end, from the database schema to the last pixel of the UI.
+
+- 💼 **Full Stack Developer at PMG Global Advisors**, building production web applications for international clients in English-speaking teams.
+- 📱 Comfortable across the whole stack: **Next.js** and **React** on the web, **React Native with Expo** on mobile, and **NestJS / Express** APIs with **PostgreSQL** and **Prisma / TypeORM**.
+- 🧱 I like clean architecture: typed contracts shared between front and back, monorepos (Turborepo + pnpm), reusable components and small, focused modules.
+- 🎨 Background in **UX/UI design**, so I care about how things feel, not only how they work.
+- 🎓 Graduated as a **Full Stack JavaScript Developer** at [Henry](https://www.soyhenry.com/).
+
+## Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,nestjs,express&perline=8" alt="Frontend and backend"/>
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,mysql,mongodb,docker,vercel,git,github,figma&perline=9" alt="Data, tooling and design"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo"/>
+  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white" alt="Turborepo"/>
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query"/>
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod"/>
+</p>
+
+## What I'm working on
+
+- 📊 **Tally** *(private)*: a personal finance app I use every day. A Turborepo monorepo with a Next.js PWA, an Expo mobile app and a NestJS + Prisma API, sharing types and validation through internal packages.
+- 🚀 Shipping small, public, well-documented projects every week. Follow along!
+
+## Featured projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**DevCore**](https://github.com/DiegoMarzioni/devcore-courses-platform) · [live](https://devcore-front.vercel.app/) | Online courses platform with catalog, cart, Stripe payments, OAuth login (Google / GitHub) and an admin panel. Final team project at Henry. | Next.js · NestJS · TypeORM · PostgreSQL |
+| [**E-commerce Admin Dashboard**](https://github.com/DiegoMarzioni/ecommerce-admin-dashboard) | Admin panel to manage products, brands, categories, customers and orders, with sales charts and JWT auth. | Next.js · NestJS · Prisma · PostgreSQL |
+| [**Fashion Store**](https://github.com/DiegoMarzioni/fashion-store-ecommerce) | E-commerce with product catalog, cart, wishlist, checkout and user profile, with animated UI. | Next.js · Express · TypeORM · PostgreSQL |
+| [**Appointment Booking App**](https://github.com/DiegoMarzioni/appointment-booking-app) | Users sign up, book and cancel appointments and manage their profile, with email notifications. | React (Vite) · Express · TypeORM · PostgreSQL |
+
+## GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=DiegoMarzioni&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiegoMarzioni/DiegoMarzioni/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiegoMarzioni/DiegoMarzioni/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/DiegoMarzioni/DiegoMarzioni/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+<p align="center"><i>Building something and need a full stack developer who also cares about UX? Let's talk.</i></p>
