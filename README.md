@@ -18,7 +18,7 @@
 
 I build web and mobile products end to end, from the database schema to the last pixel of the UI.
 
-- 💼 **Front-end Developer at PMG Global Advisors** (remote, since March 2026), building production web applications for international clients in English-speaking teams.
+- 💼 **Front-end Developer at PMG Consulting US** (remote, since March 2026), building production web applications for international clients in English-speaking teams.
 - 🧑‍🏫 **Teaching Assistant at Henry**, helping full stack students with technical questions, code reviews and team projects.
 - 📱 Comfortable across the whole stack: **Next.js** and **React** on the web, **React Native with Expo** on mobile, and **NestJS / Express** APIs with **PostgreSQL** and **Prisma / TypeORM**.
 - 🧱 I like clean architecture: typed contracts shared between front and back, monorepos (Turborepo + pnpm), reusable components and small, focused modules.
