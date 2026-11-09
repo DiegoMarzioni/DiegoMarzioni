@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Diego Marzioni 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer</b> · TypeScript · React · Next.js · NestJS · React Native (Expo)
+  <b>Front-end / Full Stack Developer</b> · TypeScript · React · Next.js · NestJS · React Native (Expo)
   <br/>
   📍 Pergamino, Buenos Aires, Argentina · 🌎 Open to remote opportunities
 </p>
