@@ -19,7 +19,7 @@
 I build web and mobile products end to end, from the database schema to the last pixel of the UI.
 
 - 💼 **Front-end Developer at PMG Global Advisors** (remote, since March 2026), building production web applications for international clients in English-speaking teams.
-- 🧑‍🏫 **Teaching Assistant at Henry**, helping full stack students with technical questions, code reviews and team projects.
+- 🧑‍🏫 Former **Teaching Assistant at Henry** (Oct 2025 – Oct 2026), mentoring full stack students through technical questions, code reviews and team projects.
 - 📱 Comfortable across the whole stack: **Next.js** and **React** on the web, **React Native with Expo** on mobile, and **NestJS / Express** APIs with **PostgreSQL** and **Prisma / TypeORM**.
 - 🧱 I like clean architecture: typed contracts shared between front and back, monorepos (Turborepo + pnpm), reusable components and small, focused modules.
 - 🎨 Background in **UX/UI design**, so I care about how things feel, not only how they work.
@@ -52,7 +52,7 @@ I build web and mobile products end to end, from the database schema to the last
 | Project | Description | Stack |
 |---|---|---|
 | [**DevCore**](https://github.com/DiegoMarzioni/devcore-courses-platform) · [live](https://devcore-front.vercel.app/) | Online courses platform with catalog, cart, Stripe payments, OAuth login (Google / GitHub) and an admin panel. Final team project at Henry. | Next.js · NestJS · TypeORM · PostgreSQL |
-| [**E-commerce Admin Dashboard**](https://github.com/DiegoMarzioni/ecommerce-admin-dashboard) | Admin panel to manage products, brands, categories, customers and orders, with sales charts and JWT auth. | Next.js · NestJS · Prisma · PostgreSQL |
+| [**E-commerce Admin Dashboard**](https://github.com/DiegoMarzioni/ecommerce-admin-dashboard) | Admin panel to manage products, brands, categories and orders, with sales charts and JWT auth. | Next.js · NestJS · Prisma · PostgreSQL |
 | [**Fashion Store**](https://github.com/DiegoMarzioni/fashion-store-ecommerce) | E-commerce with product catalog, cart, wishlist, checkout and user profile, with animated UI. | Next.js · Express · TypeORM · PostgreSQL |
 | [**Appointment Booking App**](https://github.com/DiegoMarzioni/appointment-booking-app) | Users sign up, book and cancel appointments and manage their profile, with email notifications. | React (Vite) · Express · TypeORM · PostgreSQL |
 
