@@ -17,11 +17,13 @@
 
 I build web and mobile products end to end, from the database schema to the last pixel of the UI.
 
-- 💼 **Full Stack Developer at PMG Global Advisors**, building production web applications for international clients in English-speaking teams.
+- 💼 **Front-end Developer at PMG Global Advisors** (remote, since March 2026), building production web applications for international clients in English-speaking teams.
+- 🧑‍🏫 **Teaching Assistant at Henry**, helping full stack students with technical questions, code reviews and team projects.
 - 📱 Comfortable across the whole stack: **Next.js** and **React** on the web, **React Native with Expo** on mobile, and **NestJS / Express** APIs with **PostgreSQL** and **Prisma / TypeORM**.
 - 🧱 I like clean architecture: typed contracts shared between front and back, monorepos (Turborepo + pnpm), reusable components and small, focused modules.
 - 🎨 Background in **UX/UI design**, so I care about how things feel, not only how they work.
-- 🎓 Graduated as a **Full Stack JavaScript Developer** at [Henry](https://www.soyhenry.com/).
+- 🎓 Graduated as a **Full Stack JavaScript Developer** at [Henry](https://www.soyhenry.com/) (2025), plus Full Stack Python at Codo a Codo 4.0.
+- 🌐 **English: C1** (EF SET 63/100) · Spanish: native.
 
 ## Tech stack
 
